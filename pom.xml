@@ -30,7 +30,7 @@
 		<jdk.version>1.8</jdk.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<site.encoding>UTF-8</site.encoding>
-		<springframework.version>4.2.4.RELEASE</springframework.version>
+		<springframework.version>5.3.18</springframework.version>
 		<springframework.security.version>4.0.3.RELEASE</springframework.security.version>
 		<jacoco.version>0.7.1.201405082137</jacoco.version>
 		<jersey.version>2.22.2</jersey.version>
