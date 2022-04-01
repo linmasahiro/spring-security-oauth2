@@ -30,13 +30,13 @@
 		<jdk.version>1.8</jdk.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<site.encoding>UTF-8</site.encoding>
-		<springframework.version>4.2.4.RELEASE</springframework.version>
+		<springframework.version>5.2.7.RELEASE</springframework.version>
 		<springframework.security.version>4.0.3.RELEASE</springframework.security.version>
 		<jacoco.version>0.7.1.201405082137</jacoco.version>
 		<jersey.version>2.22.2</jersey.version>
 		<slf4j.version>1.7.10</slf4j.version>
 		<jetty.version>9.3.7.v20160115</jetty.version>
-		<jackson.library>2.9.10.8</jackson.library>
+		<jackson.library>2.12.1</jackson.library>
 		<package.exclude />
 	</properties>
 	<dependencies>
@@ -114,7 +114,7 @@
 		<dependency>
 			<groupId>org.mybatis</groupId>
 			<artifactId>mybatis</artifactId>
-			<version>3.2.8</version>
+			<version>3.5.6</version>
 		</dependency>
 		<dependency>
 			<groupId>org.mybatis</groupId>
